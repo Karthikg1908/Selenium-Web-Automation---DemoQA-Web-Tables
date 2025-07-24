@@ -1,4 +1,4 @@
-# 🧪 Selenium Web Automation - DemoQA Web Tables
+# Selenium Web Automation - DemoQA Web Tables
 
 This project demonstrates basic **CRUD operations (Create, Read, Update, Delete)** using **Selenium WebDriver** on the [DemoQA Web Tables](https://demoqa.com/webtables) page.
 
